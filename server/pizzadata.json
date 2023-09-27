@@ -1,0 +1,217 @@
+[{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/1146760/pexels-photo-1146760.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/10790638/pexels-photo-10790638.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/13946695/pexels-photo-13946695.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/13985154/pexels-photo-13985154.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/15575224/pexels-photo-15575224/free-photo-of-close-up-of-pizza.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/11136515/pexels-photo-11136515.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/7912400/pexels-photo-7912400.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER BARBIQUIE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/2619970/pexels-photo-2619970.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+},
+{
+    "name": "PEPPER OLIVE CHIKEN",
+    "varient":[
+        "small",
+        "medium",
+        "large"
+    ],
+    "prices":[
+        {
+            "small":200,
+            "medium":350,
+            "large":400
+        }
+    ],
+    "category":"non-veg",
+    "image":"https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg",
+    "description":"pepper barbiqui chiken pizza with cheese"
+}]
